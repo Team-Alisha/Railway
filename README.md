@@ -5,3 +5,4 @@ Owner :- [Aʙʜɪᴍᴀɴʏᴜ Sɪɴɢʜ Rᴀɴᴀᴡᴀᴛ](https://t.me/VeNom_
 
 
 😈COPY PASTERS COPY THIS BUT GIVE CREDIT😈
+https://railway.app/new/template/qVD7Rn?referralCode=Abhimanyu
