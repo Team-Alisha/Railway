@@ -7,4 +7,4 @@ COPY . /app/
 WORKDIR /app/
 RUN git clone https://github.com/Team-Alisha/Thmchange Thmchange
 RUN cd Thmchange && pip3 install -U -r requirements.txt
-CMD cd Thmhange && bash start
+CMD cd Thmchange && bash start
